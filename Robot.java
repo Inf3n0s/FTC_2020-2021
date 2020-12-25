@@ -15,8 +15,9 @@ public class Robot {
     public DcMotor dreaptaSpate = null;
     public DcMotor aruncator = null;
     public DcMotor oabalGoal = null;
-    public DcMotor colector = null;    public DcMotor ruleta = null;
-
+    public DcMotor colector = null;    
+    public DcMotor ruleta = null;
+    
     public CRServo impingator = null;
     public Servo inaltime = null;
 
